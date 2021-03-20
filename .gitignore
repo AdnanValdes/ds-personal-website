@@ -1,2 +1,5 @@
 /.venv
 /firebase-debug.log
+.firebaserc
+firebase.json
+.github/workflows
